@@ -1,6 +1,7 @@
 # Thyroid-Detection
 To build a classification methodology to predict the type of Thyroid based on the given training data.
 
+
 Data Description:
 
 The client will send data in multiple sets of files in batches at a given location. Data will contain different classes of thyroid and 30 columns of different values.
